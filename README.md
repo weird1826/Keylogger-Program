@@ -1,5 +1,4 @@
-# PRODIGY_CS_04
-## Keylogger Program in Python
+# Keylogger Program in Python
 - Thee project contains three files:
     1. `keylogger.py`
     2. `keylogger_server.py`
